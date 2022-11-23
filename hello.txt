@@ -1,2 +1,3 @@
 hello git!
 awesome change!
+fantastic change!
