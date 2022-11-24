@@ -1,3 +1,4 @@
 hello git!
 anotherbug!
 bug
+master
